@@ -18,5 +18,5 @@ Ce projet est un mini-site statique sur le thème des antivirus, développé col
 - `feature-header` : création du header (Zayneb)
 - `feature-contenu` : ajout du contenu texte (Zayneb Souissi)
 - `feature-contenu` : ajout du contenu texte (Maram Zribit)
-- `feature-style` : design et mise en page CSS (Souha)
+- `feature-style` : design et mise en page CSS (Souha Dhaouadi)
 - `feature-interactions` : scripts d’interactions JS (Fady Dridi)
